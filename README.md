@@ -1,8 +1,8 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/UYMdzKS7bOJRJQzZtI/giphy-downsized-large.gif" width="400" height="40" />
+  <img src="https://media.giphy.com/media/UYMdzKS7bOJRJQzZtI/giphy-downsized-large.gif" width="200" height="40" />
   <img src="https://media.giphy.com/media/MYI6NK4JOGpOzOriEg/giphy.gif" width="200" />
-  <img src="https://media.giphy.com/media/FVVVfw0sXn1s8fpUBL/giphy-downsized-large.gif" width="400" height="40"/>
+  <img src="https://media.giphy.com/media/FVVVfw0sXn1s8fpUBL/giphy-downsized-large.gif" width="200" height="40"/>
 </div>
 <div id="badges" align="center">
   <a href="https://t.me/boombacks">
