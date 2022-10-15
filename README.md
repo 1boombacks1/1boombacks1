@@ -12,13 +12,24 @@
  <div id="views" align="center">
   <img src="https://komarev.com/ghpvc/?username=1boombacks1&style=flat-square&color=blue" alt=""/>
  </div>
- <div>
+ <div align="center>
    <h1>
     Hey! Hello There
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
  </div>
  
+ <div align="center">
+  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
+ </div>
+ 
+---
+
+:man_technologist: **About me:**
+
+> :keyboard: I am a Backend/Mobile Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia <img src="https://media.giphy.com/media/m1ryIPOpfsQpXRm2UB/giphy.gif" width="25">.
+
+
 <!--
 **1boombacks1/1boombacks1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
