@@ -9,25 +9,16 @@
 <div id="badges" align="center">
   <a href="https://t.me/boombacks">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge">
+    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge">
    </a>
  </div>
  <div id="views" align="center">
   <img src="https://komarev.com/ghpvc/?username=1boombacks1&style=flat-square&color=blue" alt=""/>
  </div>
- <div align="center">
-   <h1>
-    Hey! Hello There
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
- </div>
- 
- <div align="center">
-  <img src="https://media.giphy.com/media/cNfIqjpCY1zqfaLmd8/giphy.gif" width="400px">
- </div>
  
 ---
 
-:man_technologist: **About me:**
+## :man_technologist: About me:
 
 I am a `Backend/Mobile Developer` <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia <img src="https://media.giphy.com/media/m1ryIPOpfsQpXRm2UB/giphy.gif" width="25"> and I'm a *4th year student* of one of the top technical universities in Moscow :book: .
 
@@ -39,20 +30,29 @@ I am a `Backend/Mobile Developer` <img src="https://media.giphy.com/media/WUlplc
 
 ---
 
-:hammer_and_wrench: **Languages and Tools :**
+### 💻 Languages:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="golang" width="40" height="40">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="kotlin" width="40" height="40">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" width="40" height="40">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgreSQL" width="40" height="40">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb" width="40" height="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="firebase" width="40" height="40">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html" width="40" height="40">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" width="40" height="40">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="js" width="40" height="40">&nbsp;
+</div>
+
+</br>
+
+### 🛠️ Tools:
+<div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" width="40" height="40">&nbsp;
   <img src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" title="postman" width="40" height="40">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" width="40" height="40">&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="firebase" width="40" height="40">&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" width="40" height="40">&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="github" width="40" height="40">&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" width="40" height="40">&nbsp;
 </div>
 
 ---
