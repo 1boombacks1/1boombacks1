@@ -7,10 +7,14 @@
   <img src="https://media.giphy.com/media/FVVVfw0sXn1s8fpUBL/giphy-downsized-large.gif" width="300" height="40"/>
 </div>
 <div id="badges" align="center">
+  <div>
   <a href="https://t.me/boombacks">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge">
-    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge">
    </a>
+   <a href="mailto:nikolaevforbuss@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge">
+    </a>
+  </div>
  </div>
  <div id="views" align="center">
   <img src="https://komarev.com/ghpvc/?username=1boombacks1&style=flat-square&color=blue" alt=""/>
