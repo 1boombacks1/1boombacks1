@@ -34,9 +34,12 @@ I am a `Backend/Mobile Developer` <img src="https://media.giphy.com/media/WUlplc
 
 ---
 
-### 💻 Tools:
-<ins>**Core:**</ins> [![Core](https://skillicons.dev/icons?i=go,ts,postgres)](https://skillicons.dev) </br>
-<ins>**Main lifestyle hard'n'soft used:**</ins> [![Lifestyle](https://skillicons.dev/icons?i=apple,vscode,obsidian,figma,discord)](https://skillicons.dev)
+### 💻 Tools
+##### <ins>Core</ins>:
+[![Core](https://skillicons.dev/icons?i=go,ts,postgres)](https://skillicons.dev) </br>
+
+##### <ins>Main lifestyle hard'n'soft used</ins>
+[![Lifestyle](https://skillicons.dev/icons?i=apple,vscode,obsidian,figma,discord)](https://skillicons.dev)
 
 </br>
 
