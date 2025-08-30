@@ -34,26 +34,8 @@ I am a `Backend/Mobile Developer` <img src="https://media.giphy.com/media/WUlplc
 
 ---
 
-### Contributions:
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/1boombacks1/1boombacks1/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/1boombacks1/1boombacks1/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/1boombacks1/1boombacks1/output/github-snake.svg" />
-</picture>
-
----
-
-### 💻 Languages:
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="golang" width="40" height="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="kotlin" width="40" height="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" width="40" height="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgreSQL" width="40" height="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb" width="40" height="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html" width="40" height="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" width="40" height="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="js" width="40" height="40">&nbsp;
-</div>
+### 💻 Core:
+[![Core](https://skillicons.dev/icons?i=go,ts,postgres)](https://skillicons.dev)
 
 </br>
 
@@ -74,17 +56,11 @@ I am a `Backend/Mobile Developer` <img src="https://media.giphy.com/media/WUlplc
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1boombacks1&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-**1boombacks1/1boombacks1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contributions:
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/1boombacks1/1boombacks1/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/1boombacks1/1boombacks1/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/1boombacks1/1boombacks1/output/github-snake.svg" />
+</picture>
