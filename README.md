@@ -15,6 +15,7 @@
 
 <div id="badges" align="center">
   <img src="./berserk-eyes.svg" alt="eyes" width="150" />
+  <p>Пиши, не стесняйся</p>
   <div>
   <a href="https://t.me/boombacks">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge">
@@ -43,14 +44,13 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1boombacks1&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
----
 
 # Activities:
 ### :space_invader: Leetcode:
 ![LeetCode Stats](https://leetcard.jacoblin.cool/1boombacks1?theme=catppuccinMocha&font=Fira%20Code&ext=heatmap)
 
 ### :trophy: Achievements
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=1boombacks1&theme=onedark)
 
 ### Contributions:
 <picture>
