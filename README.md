@@ -35,24 +35,14 @@ I am a `Backend/Mobile Developer` <img src="https://media.giphy.com/media/WUlplc
 ---
 
 ### 💻 Tools
-##### <ins>Core</ins>:
-[![Core](https://skillicons.dev/icons?i=go,ts,postgres)](https://skillicons.dev) </br>
+##### :godmode:<ins>Core</ins>:
+[![Core](https://skillicons.dev/icons?i=go,ts,lit,postgres)](https://skillicons.dev) </br>
 
-##### <ins>Main lifestyle hard'n'soft used</ins>
-[![Lifestyle](https://skillicons.dev/icons?i=apple,vscode,obsidian,figma,discord)](https://skillicons.dev)
+##### :pager:<ins>Main lifestyle hard'n'soft used</ins>:
+[![Lifestyle](https://skillicons.dev/icons?i=apple,vscode,github,obsidian,figma,discord)](https://skillicons.dev)
 
+##### 🛠️<ins>Other</ins>: [![Other](https://skillicons.dev/icons?i=bash,html,sass,css,docker,htmx,js,redis)](https://skillicons.dev)
 </br>
-
-### 🛠️ Tools:
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" width="40" height="40">&nbsp;
-  <img src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" title="postman" width="40" height="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" width="40" height="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="firebase" width="40" height="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" width="40" height="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="github" width="40" height="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" width="40" height="40">&nbsp;
-</div>
 
 ---
 
