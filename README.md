@@ -34,6 +34,15 @@ I am a `Backend/Mobile Developer` <img src="https://media.giphy.com/media/WUlplc
 
 ---
 
+### Contributions:
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
+---
+
 ### 💻 Languages:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="golang" width="40" height="40">&nbsp;
