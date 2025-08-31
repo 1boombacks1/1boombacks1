@@ -1,45 +1,21 @@
-name: contributions eater
+name: Waka Readme
 
-# controls when the action will run
 on:
-  # run automatically every 24 hours
   schedule:
-    - cron: "0 */24 * * *" 
-  
-  # allows to manually run the job at any time
+    - cron: '0 */24 * * *'
   workflow_dispatch:
-  
-  # run on every push on the main branch
-  push:
-    branches:
-    - main
-    
-  
-
 jobs:
-  generate:
-    permissions: 
-      contents: write
+  update-readme:
+    name: Update Readme with Metrics
     runs-on: ubuntu-latest
-    timeout-minutes: 5
-    
     steps:
-      # generates a snake game from a github user contributions graph, output a svg animation at <svg_out_path>
-      - name: generate github-snake.svg
-        uses: Platane/snk/svg-only@v3
+      - uses: anmol098/waka-readme-stats@master
         with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-          
-          
-      # push the content of <build_dir> to a branch
-      # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
-      - name: push github-snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_TOTAL_CODE_TIME: False
+          SHOW_PROFILE_VIEWS: False
+          SHOW_PROJECTS: False
+          SHOW_TIMEZONE: False
+          SHOW_LANGUAGE_PER_REPO: False
+          SHOW_SHORT_INFO: False
