@@ -66,7 +66,7 @@ Telegram: t.me/boombacks
 </td>
 <td>
 <div align="center" id="badges">
-  <img src="./berserk-eyes.svg" alt="eyes" width="150" />
+  <img src="./assets/berserk-eyes.svg" alt="eyes" width="150" />
   <div>
   <a href="https://t.me/boombacks">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge">
